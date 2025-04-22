@@ -28,10 +28,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 
-![image](https://github.com/user-attachments/assets/e13cd765-7110-40b0-a6a2-e04fd9639a62)![image](https://github.com/user-attachments/assets/c84139c4-a41e-4d47-8478-8be044e6833a)
-![image](https://github.com/user-attachments/assets/20f53e9f-0326-4bba-94f0-b9b898fcea79)![image](https://github.com/user-attachments/assets/95f2674a-b2da-4c61-8d80-0d97f2489c69)
-
-
+![image](https://github.com/user-attachments/assets/069933d6-d1a0-494a-b6a7-6ec3e7c82222)![image](https://github.com/user-attachments/assets/b59fb9ca-91a5-4198-89a3-2994234d85dc)
+![image](https://github.com/user-attachments/assets/0aecb1a4-dd7b-44ae-9b77-ebd58cfd13db)![image](https://github.com/user-attachments/assets/fbfdf2ca-20b5-4ac6-af04-21425248726f)
 
 
 1. Log In and Get Familiar
@@ -83,4 +81,58 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 6. Resolve the Ticket (as Jane)
 
 - Log in as jane, pick up the ticket, and fully resolve it—close it out properly
+
+
+![image](https://github.com/user-attachments/assets/fcb084d9-2f9a-4b3d-830b-1beba0806d8d)![image](https://github.com/user-attachments/assets/c65f63e0-dec3-4710-914a-d5552fdcedfe)
+![image](https://github.com/user-attachments/assets/87a1feaa-9a62-4f4d-985f-415d3a39123d)![image](https://github.com/user-attachments/assets/f1b62017-3f66-457d-8d90-cefaca356173)
+
+Ticket 2: Adobe Upgrade for Accounting Department
+End-User Action
+
+Reported that Adobe in the Accounting Department is broken and needs an upgrade.
+
+Help Desk Agent (John)
+
+Reviewed the ticket and saw the following:
+
+Priority: Sev-B
+
+Department: Support
+
+SLA: 4 hours, 24/7
+
+Ticket Progress
+
+John handled the upgrade and got Adobe back up and running.
+
+Resolution
+
+Issue was resolved by John, and the ticket was successfully closed.
+
+
+![image](https://github.com/user-attachments/assets/745d60de-69b0-451b-8668-60b925db817e)![image](https://github.com/user-attachments/assets/5896d3b5-105b-49a9-b4d2-38af5e0c7c7a)
+![image](https://github.com/user-attachments/assets/eb1087e5-243e-4ae4-ac2a-5cf8715bcfb6)![image](https://github.com/user-attachments/assets/eb4b293b-3fc4-4ae8-a08b-2e8032f84fed)
+
+Ticket 3: CFO’s Laptop Won’t Turn On
+End-User Action
+
+Reported that the CFO’s laptop isn’t powering on.
+
+Help Desk Agent (John)
+
+Checked the ticket and noted:
+
+Priority: Sev-B
+
+Department: Support
+
+SLA: 4 hours, 24/7
+
+Ticket Progress
+
+John troubleshot the issue and got the laptop working again.
+
+Resolution
+
+Problem was fully resolved by John and the ticket was closed.
 
